@@ -1,5 +1,4 @@
 # Project extension ideas
----
 
 - Extended unit tests
 - Add code commentary and notes
@@ -14,3 +13,4 @@ Try:
 - Other Gemini models
 - Giving it more functions to call
 - Other codebases (Commit your changes before running the agent so you can always revert!)
+
